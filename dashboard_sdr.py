@@ -8,7 +8,7 @@ st.set_page_config(page_title="Dashboard SDR", layout="wide")
 
 # --- CONFIGURAÇÃO DO ARQUIVO ---
 # 👇 COLE O CAMINHO AQUI (Mantenha o r e as aspas)
-arquivo = r"E:\Download\CRM - BNI - EUA.xlsx"
+arquivo = "CRM - BNI - EUA.xlsx"
 
 # 2. Carregamento de Dados (Blindado)
 @st.cache_data
